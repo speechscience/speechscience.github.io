@@ -3,7 +3,7 @@
 title: Michal Borsky
 
 # Name pronunciation (optional)
-name_pronunciation: [mixal borski:]
+name_pronunciation: 'mixal borski:'
 
 # Full name (for SEO)
 first_name: Michal
