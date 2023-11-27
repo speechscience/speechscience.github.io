@@ -1,56 +1,56 @@
 ---
 # Display name
-title: 吳健雄
+title: Michal Borsky
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: [mixal borski:]
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Michal
+last_name: Borsky
 
 # Status emoji
-status:
+status: grinding
   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Speech Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Unaffiliated
+    url: -
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A speech scientist who is most passionate about speech-to-text, speech-to-speech, and fundamental/applied speech processing.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'michal.borsky@protonmail.com'
     label: E-mail Me
-  - icon: x
-    url: https://twitter.com/GetResearchDev
-  - icon: instagram
-    url: https://www.instagram.com/
   - icon: linkedin
-    url: https://www.linkedin.com/
+    url: hhttps://www.linkedin.com/in/michal-borsky-293769106/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: cv
     url: uploads/resume.pdf
     label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+  - icon: github
+    url: https://github.com/RanoRaraku
+    label: My GitHub projects
+  - icon: google-scholar
+    url: hhttps://scholar.google.com/citations?hl=en&user=VdcF9moAAAAJ/&user=VdcF9moAAAAJ
+    label: My GitHub projects
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My passion is everything related to speech: production, perception, automatic
+processing, or extracting linguistic and paralinguistic information. I have years of experience in research, development and
+deployment of solutions for the purpose of speech processing, speech-to-text, speech-to-speech, and speech in medicine. My
+vision is to develop technologies to solve real-world problems which can improve people’s lives.
