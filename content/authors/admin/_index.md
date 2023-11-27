@@ -10,7 +10,7 @@ first_name: Michal
 last_name: Borsky
 
 # Status emoji
-status: grinding
+status:
   icon: ☕️
 
 # Is this the primary user of the site?
