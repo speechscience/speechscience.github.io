@@ -31,10 +31,10 @@ bio: A speech scientist who is most passionate about speech-to-text, speech-to-s
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'michal.borsky@protonmail.com'
+    url: 'mailto:michal.borsky@protonmail.com'
     label: E-mail Me
   - icon: linkedin
-    url: hhttps://www.linkedin.com/in/michal-borsky-293769106/
+    url: https://www.linkedin.com/in/michal-borsky-293769106/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
   - icon: cv
     url: uploads/resume.pdf
@@ -43,7 +43,7 @@ profiles:
     url: https://github.com/RanoRaraku
     label: My GitHub projects
   - icon: google-scholar
-    url: hhttps://scholar.google.com/citations?hl=en&user=VdcF9moAAAAJ/&user=VdcF9moAAAAJ
+    url: https://scholar.google.com/citations?hl=en&user=VdcF9moAAAAJ/&user=VdcF9moAAAAJ
     label: My GitHub projects
 
 # Highlight the author in author lists? (true/false)
