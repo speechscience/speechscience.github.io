@@ -20,12 +20,16 @@ superuser: true
 role: Speech Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Unaffiliated
-    url: -
+#organizations:
+#  - name: Unaffiliated
+#    url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: A speech scientist who is most passionate about speech-to-text, speech-to-speech, and fundamental/applied speech processing.
+
+interests:
+  - Artificial Intelligence
+  - Speech Processing
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,7 +54,6 @@ profiles:
 highlight_name: true
 ---
 
-My passion is everything related to speech: production, perception, automatic
-processing, or extracting linguistic and paralinguistic information. I have years of experience in research, development and
-deployment of solutions for the purpose of speech processing, speech-to-text, speech-to-speech, and speech in medicine. My
-vision is to develop technologies to solve real-world problems which can improve people’s lives.
+My passion is everything related to speech: production, perception, automatic processing, or extracting linguistic and paralinguistic information.
+I have years of experience in research, development and deployment of solutions for the purpose of speech processing, speech-to-text, speech-to-speech,
+and speech in medicine. My vision is to develop technologies to solve real-world problems which can improve people’s lives.
