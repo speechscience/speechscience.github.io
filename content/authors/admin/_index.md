@@ -21,7 +21,7 @@ role: Speech Scientist
 
 # Organizations/Affiliations to show in About widget
 #organizations:
-#  - name: Unaffiliated
+#  - name: None
 #    url:
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,12 +48,13 @@ profiles:
     label: My GitHub projects
   - icon: google-scholar
     url: https://scholar.google.com/citations?hl=en&user=VdcF9moAAAAJ/&user=VdcF9moAAAAJ
-    label: My GitHub projects
+    label: My publication record
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-My passion is everything related to speech: production, perception, automatic processing, or extracting linguistic and paralinguistic information.
-I have years of experience in research, development and deployment of solutions for the purpose of speech processing, speech-to-text, speech-to-speech,
-and speech in medicine. My vision is to develop technologies to solve real-world problems which can improve people’s lives.
+My passion is everything related to speech: production, perception, automatic processing, extracting linguistic and paralinguistic information.
+I have years of experience R&D for speech processing, speech-to-text, speech-to-speech, and speech in medicine. I want to focus on sharing fundamental
+or state-of-the-art knowledge that I have experience with and find relavant. My goal is that this blog will serve as a roadmap for those who want to
+get into the field or just deepen their knowledge.

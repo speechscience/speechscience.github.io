@@ -7,9 +7,18 @@ main:
   - name: Home
     url: /
     weight: 10
+  - name: Overview
+    url: overview/
+    weight: 10
+  - name: Articles
+    url: articles/
+    weight: 30
+  - name: Code
+    url: code/
+    weight: 40
   - name: Topics
     url: tags/
-    weight: 20
-  - name: Uses
-    url: uses/
-    weight: 30
+    weight: 50
+  #- name: About
+  #  url: /
+  #  weight: 60
